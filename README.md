@@ -16,7 +16,7 @@ In this repo you can find some useful notes on Software Architecture and design 
 
 ### Microservices
 
-([https://www.youtube.com/watch?v=wgdBVIX9ifA](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+([https://www.youtube.com/watch?v=wgdBVIX9ifA])(https://www.youtube.com/watch?v=wgdBVIX9ifA)
 
 - Don't get to microservices if you don't understand your module boundaries well
 
