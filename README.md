@@ -20,11 +20,12 @@ In this repo you can find some useful notes on Software Architecture and design 
 
 - Don't get to microservices if you don't understand your module boundaries well
 
-**Netflix Principles:**
-
-- Buy vs Build - use of-the-shelf-components; only build what you have to
-- Services must be stateless (except for persistence and caching layers)
-- Scale out instead of Scale up
+**Important Characteristics**
+- Suite of small services
+- Running in its own process
+- built around business capabilities
+- independently deployable
+- bare minimum of centralised management
 
 **Mandatory things for microservices:**
 
@@ -32,3 +33,8 @@ In this repo you can find some useful notes on Software Architecture and design 
 2. Monitoring
 3. Rapid Application Deployment
 4. DevOps culture
+
+**Netflix Principles:**
+- Buy vs Build - use of-the-shelf-components; only build what you have to
+- Services must be stateless (except for persistence and caching layers)
+- Scale out instead of Scale up
