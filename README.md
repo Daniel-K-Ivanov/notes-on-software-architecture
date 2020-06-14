@@ -1,7 +1,7 @@
 # Notes on Architecture and Patterns
 In this repo you can find some useful notes on Software Architecture and design patterns that I stumbled upon that I think are worth writing down.
 
-## Useful website:
+## Useful websites:
 
 - Blog of Martin Fowler - [https://martinfowler.com/videos.html](https://martinfowler.com/videos.html)
 
