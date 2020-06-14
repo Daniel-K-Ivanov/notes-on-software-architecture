@@ -21,11 +21,15 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Don't get to microservices if you don't understand your module boundaries well
 
 **Important Characteristics**
-- Suite of small services
-- Running in its own process
-- built around business capabilities
-- independently deployable
-- bare minimum of centralised management
+- Componentization via Services
+- Organized around Business Capabilities
+- Products not Projects
+- Smart endpoints and dumb pipes
+- Decentralized Governance
+- Decentralized Data Management
+- Infrastructure Automation
+- Design for failure
+- Evolutionary Design
 
 **Mandatory things for microservices:**
 
