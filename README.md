@@ -30,6 +30,7 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Infrastructure Automation
 - Design for failure
 - Evolutionary Design
+- Choreography over orchestration
 
 **Mandatory things for microservices:**
 
