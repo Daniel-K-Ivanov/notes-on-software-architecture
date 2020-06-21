@@ -49,4 +49,5 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Highly specific code is preferable to sophisticated configuration
 - Small is not always beautiful
 - Centralised responsibility hurts
+- Lack of standartization leads to vast differences in API style, formats, documentation etc -> which creates needles extra work. 
 
