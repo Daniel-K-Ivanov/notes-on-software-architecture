@@ -50,4 +50,4 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Small is not always beautiful
 - Centralised responsibility hurts
 - Lack of standartization leads to vast differences in API style, formats, documentation etc -> which creates needles extra work. 
-
+- You cannot decide to not have architecture; if you don't actively create it, be prepared to deal with the one that emerges
