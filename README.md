@@ -44,4 +44,9 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Services must be stateless (except for persistence and caching layers)
 - Scale out instead of Scale up
 
-"There is no good or bad architecture without context; architecture needs to take specific quality attributes into account"
+**Good enought Architecture**:
+- There is no good or bad architecture without context; architecture needs to take specific quality attributes into account
+- Highly specific code is preferable to sophisticated configuration
+- Small is not always beautiful
+- Centralised responsibility hurts
+
