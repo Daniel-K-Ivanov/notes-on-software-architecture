@@ -44,10 +44,14 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Services must be stateless (except for persistence and caching layers)
 - Scale out instead of Scale up
 
-**Good enought Architecture**:
+**Good enough Architecture**:
 - There is no good or bad architecture without context; architecture needs to take specific quality attributes into account
 - Highly specific code is preferable to sophisticated configuration
 - Small is not always beautiful
 - Centralised responsibility hurts
 - Lack of standartization leads to vast differences in API style, formats, documentation etc -> which creates needles extra work. 
 - You cannot decide to not have architecture; if you don't actively create it, be prepared to deal with the one that emerges
+- Extremely loose coupling requires very few rules, but they need to be enforced strictly
+- Smart endpoints, dumb pipes (2) (Never put too much logic and too much inteligence in Infrastructure)
+- Choose the simplest thing that will work <&> Create evolvable structures
+- Manage your system's architectural evolution
