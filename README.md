@@ -43,3 +43,5 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Buy vs Build - use of-the-shelf-components; only build what you have to
 - Services must be stateless (except for persistence and caching layers)
 - Scale out instead of Scale up
+
+"There is no good or bad architecture without context; architecture needs to take specific quality attributes into account"
