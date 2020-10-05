@@ -55,3 +55,13 @@ In this repo you can find some useful notes on Software Architecture and design 
 - Smart endpoints, dumb pipes (2) (Never put too much logic and too much inteligence in Infrastructure)
 - Choose the simplest thing that will work <&> Create evolvable structures
 - Manage your system's architectural evolution
+
+**Common Failures of Sofware Architects**
+1. Over generalisation drive -> Seeing commonalities in everything and turning them into generic solutions.
+2. Over specialisation -> believing that your problem is unique although its solved 1000 times.
+3. Unheathly complexity Attraction -> Being so smart, you can't be bothered by simple approaches.
+4. Analysis Paralysis -> Taking longer to evaluate than to actually do it
+5. Innovation Addiction
+6. Severe tunneling fixation -> Enforcing an architectural approach that clashes with the framework, libraries you use.
+7. Asset Addiction -> Becoming so attached to a particular tool/library/framework it becomes a fit for every problem
+8. Exaggarated Risk Aversion -> Sticking to horrible tools
