@@ -4,6 +4,7 @@ In this repo you can find some useful notes on Software Architecture and design 
 ## Useful websites:
 
 - Blog of Martin Fowler - [https://martinfowler.com/videos.html](https://martinfowler.com/videos.html)
+- Mike Richards - [https://www.developertoarchitect.com/](https://www.developertoarchitect.com/)
 
 ## Tech Notes:
 
